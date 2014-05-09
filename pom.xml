@@ -41,7 +41,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>0.3.0</upstream.version>
+        <upstream.version>0.3.1</upstream.version>
         <upstream.directory>jcarousel-${upstream.version}</upstream.directory>
         <upstream.file>${upstream.version}.zip</upstream.file>
         <upstream.url>https://github.com/jsor/jcarousel/archive</upstream.url>
